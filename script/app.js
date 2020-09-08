@@ -10,14 +10,14 @@ project links and images
 // const that = document.querySelector("body");
 
 
-that.addEventListener('onload', function () {
-    const videoElement = document.getElementById('vid');
-    if (videoElement.playing) {
-        // video is already playing so do nothing
-    }
-    else {
-        // video is not playing
-        // so play video now
-        videoElement.play();
-    }
-});
+// that.addEventListener('onload', function () {
+//     const videoElement = document.getElementById('vid');
+//     if (videoElement.playing) {
+//         // video is already playing so do nothing
+//     }
+//     else {
+//         // video is not playing
+//         // so play video now
+//         videoElement.play();
+//     }
+// });
