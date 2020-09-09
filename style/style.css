@@ -7,7 +7,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: Verdana, Geneva, Tahoma, sans-serif; text-
 /* Remove margins from "page content" on small screens */
 @media only screen and (max-width: 600px) {#main {margin-left: 0}}
 
-.vid {
+#vid {
     position: relative;
     width: 70%;
     height: auto;
@@ -57,4 +57,16 @@ body, h1,h2,h3,h4,h5,h6 {font-family: Verdana, Geneva, Tahoma, sans-serif; text-
     height: 80%;
     margin-left: auto;
     margin-right: auto;
+}
+
+#vid1 {
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+#about {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: large;
 }
