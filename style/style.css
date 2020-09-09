@@ -59,11 +59,11 @@ body, h1,h2,h3,h4,h5,h6 {font-family: Verdana, Geneva, Tahoma, sans-serif; text-
     margin-right: auto;
 }
 
-#vid1 {
+/* #vid1 {
     position: relative;
     width: 100%;
     height: auto;
-}
+} */
 
 #about {
     font-family: Arial, Helvetica, sans-serif;
