@@ -7,7 +7,7 @@ interactive nav sub in
 carousel updated
 project links and images
 */
-// const that = document.querySelector("body");
+const that = document.querySelector("body");
 
 
 that.addEventListener('onload', function () {
